@@ -4,7 +4,7 @@ This is a Quiz Application built with **React** and **json-server** as the backe
 
 ## Live Demo
 
-Check out the live demo of the app [here](https://quiz-app-beta-swart.vercel.app/).
+Check out the live demo of the app [Quiz App](https://quiz-app-beta-swart.vercel.app/).
 
 ## Features
 
