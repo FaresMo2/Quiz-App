@@ -1,4 +1,4 @@
-# Quiz App
+# Quiz React App
 
 This is a Quiz Application built with **React** and **json-server** as the backend. The app is designed to provide a seamless and customizable quiz experience.
 
